@@ -1,14 +1,14 @@
 //
-//  RestGeneratorTests.swift
-//  RestGeneratorTests
+//  RestGenerationTests.swift
+//  RestGenerationTests
 //
 //  Created by Brianna Zamora on 5/28/23.
 //
 
 import XCTest
-@testable import RestGenerator
+@testable import RestGeneration
 
-final class RestGeneratorTests: XCTestCase {
+final class RestGenerationTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
